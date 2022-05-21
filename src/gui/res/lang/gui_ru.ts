@@ -284,7 +284,7 @@ Visit our website for help and info (symless.com).
     <message>
         <location filename="src/MainWindow.cpp" line="1038"/>
         <source>Please add the server (%1) to the grid.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Пожалуйста, добавьте сервер (%1) в сетку.</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1044"/>
@@ -294,12 +294,12 @@ Visit our website for help and info (symless.com).
     <message>
         <location filename="src/MainWindow.cpp" line="1147"/>
         <source>Failed to detect system architecture.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Ошибка определения архитектуры системы.</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1165"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Отмена</translation>
     </message>
     <message>
         <location filename="src/MainWindow.cpp" line="1189"/>
@@ -399,7 +399,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/MainWindowBase.ui" line="90"/>
         <source>Ser&amp;ver (share this computer's mouse and keyboard):</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Сервер (использовать мышь и клавиатуру этого компьютера)</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="243"/>
@@ -465,17 +465,17 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/MainWindowBase.ui" line="131"/>
         <source>Fingerprint:</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Отпечаток:</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="228"/>
         <source>&amp;Client (use another computer's mouse and keyboard):</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Клиент (управлять этим компьютером)</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="270"/>
         <source>Auto config</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Автоматическая конфигурация</translation>
     </message>
     <message>
         <location filename="res/MainWindowBase.ui" line="390"/>
@@ -571,7 +571,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/PluginManager.cpp" line="58"/>
         <source>Failed to get plugin directory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Ошибка получения директории плагинов.</translation>
     </message>
     <message>
         <location filename="src/PluginManager.cpp" line="63"/>
@@ -605,43 +605,43 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="res/PluginWizardPageBase.ui" line="101"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Пожалуйста, подождите</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="72"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Ошибка: %1</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="80"/>
         <location filename="src/PluginWizardPage.cpp" line="201"/>
         <source>Setup complete.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Установка завершена.</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="93"/>
         <source>Downloading '%1' plugin (%2/%3)...</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Скачивание плагина '%1' (%2/%3)</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="104"/>
         <source>Plugins installed successfully.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Плагины установлены успешно.</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="120"/>
         <source>Generating SSL certificate...</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Генерация SSL-сертификата...</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="170"/>
         <source>Downloading plugin: %1 (1/%2)</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Скачивание плагина: %1 (1/%2)</translation>
     </message>
     <message>
         <location filename="src/PluginWizardPage.cpp" line="239"/>
         <source>Getting plugin list...</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Получение списка плагинов...</translation>
     </message>
 </context>
 <context>
@@ -870,7 +870,7 @@ To automatically trust this fingerprint for future connections, click Yes. To re
     <message>
         <location filename="src/ServerConfigDialog.cpp" line="75"/>
         <source>Configure server</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Конфигурация сервера</translation>
     </message>
 </context>
 <context>
@@ -1093,7 +1093,7 @@ This allows Barrier to interact with elevated processes and the UAC dialog, but 
     <message>
         <location filename="res/SettingsDialogBase.ui" line="127"/>
         <source>&amp;Hide on startup</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Скрывать при запуске</translation>
     </message>
     <message>
         <location filename="res/SettingsDialogBase.ui" line="146"/>
@@ -1103,7 +1103,7 @@ This allows Barrier to interact with elevated processes and the UAC dialog, but 
     <message>
         <location filename="res/SettingsDialogBase.ui" line="155"/>
         <source>Use &amp;SSL encryption (unique certificate)</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Использовать SSL (уникальный сертификат)</translation>
     </message>
     <message>
         <location filename="res/SettingsDialogBase.ui" line="184"/>
@@ -1229,7 +1229,7 @@ This allows Barrier to interact with elevated processes and the UAC dialog, but 
     <message>
         <location filename="res/SetupWizardBase.ui" line="178"/>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Пароль:</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="204"/>
@@ -1239,12 +1239,12 @@ This allows Barrier to interact with elevated processes and the UAC dialog, but 
     <message>
         <location filename="res/SetupWizardBase.ui" line="232"/>
         <source>&amp;Skip activation</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Пропустить активацию</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="277"/>
         <source>&amp;Server (share this computer's mouse and keyboard)</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Сервер (использовать мышь и клавиатуру этого компьютера)</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="290"/>
@@ -1258,7 +1258,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="res/SetupWizardBase.ui" line="326"/>
         <source>&amp;Client (use another computer's mouse and keyboard)</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Клиент (управлять этим компьютером)</translation>
     </message>
     <message>
         <location filename="res/SetupWizardBase.ui" line="339"/>
@@ -1285,7 +1285,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/SslCertificate.cpp" line="141"/>
         <source>SSL certificate generated.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">SSL-сертификат сгенерирован.</translation>
     </message>
     <message>
         <location filename="src/SslCertificate.cpp" line="170"/>
@@ -1352,14 +1352,16 @@ Server response:
     <message>
         <location filename="src/WebClient.cpp" line="120"/>
         <source>Get plugin list failed, invalid user email or password.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Ошибка получения списка плагинов: Неверный e-mail или пароль.</translation>
     </message>
     <message>
         <location filename="src/WebClient.cpp" line="131"/>
         <source>Get plugin list failed, an error occurred.
 
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Ошибка получения списка плагинов:
+
+%1</translation>
     </message>
     <message>
         <location filename="src/WebClient.cpp" line="137"/>
@@ -1392,7 +1394,7 @@ Server response:
     <message>
         <location filename="src/ZeroconfService.cpp" line="100"/>
         <source>Error code: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Код ошибки: %1.</translation>
     </message>
     <message>
         <location filename="src/ZeroconfService.cpp" line="131"/>
@@ -1407,7 +1409,7 @@ Server response:
     <message>
         <location filename="src/ZeroconfService.cpp" line="141"/>
         <source>Failed to get local IP address. Please manually type in server address on your clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="finished">Ошибка получения локального IP-адреса. Пожалуйста, укажите IP-адрес сервера на клиентах вручную</translation>
     </message>
     <message>
         <location filename="src/ZeroconfService.cpp" line="147"/>
